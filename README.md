@@ -1,6 +1,8 @@
 # johansen_fourier
 Johansen-Fourier cointegration test Use johansen_fourier (fjohansen) With (In) R Software
 
+https://www.youtube.com/watch?v=G0Ff1LrNTmA
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
